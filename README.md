@@ -1,8 +1,7 @@
-# linux
 
-$ abt linux 
 
-## LINUX IS FUN :3
+# LINUX IS FUN :3
  
-### LUVTRANGLE<3
-zxc
+## LUVTRANGLE<3
+
+### Tu Day 
